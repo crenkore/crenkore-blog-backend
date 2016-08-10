@@ -23,5 +23,13 @@
   },
   "dependencies": {
     "express": "^4.14.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crenkore/crenkore-blog-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/crenkore/crenkore-blog-backend/issues"
+  },
+  "homepage": "https://github.com/crenkore/crenkore-blog-backend#readme"
 }
